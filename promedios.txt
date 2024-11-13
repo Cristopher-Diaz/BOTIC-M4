@@ -1,0 +1,1 @@
+Alumno: 12312 - asdas [materia [nombre=LENGUAJE, notas=[4.5]] - Promedio: 4.5]
